@@ -10,3 +10,6 @@ String str = "Hello World"
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Turn on Github
+- [ ] Do something random
+- [ ] Get success in life which is impossible
